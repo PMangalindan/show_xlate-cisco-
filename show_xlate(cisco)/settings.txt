@@ -1,0 +1,1 @@
+inpt_path="test"
